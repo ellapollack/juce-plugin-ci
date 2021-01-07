@@ -12,7 +12,7 @@ git push origin master --tags
 
 ## Building from the command line
 
-1. [Download + install CMake](https://cmake.org/install/)
+1. [Install CMake](https://cmake.org/install/)
 2.
 ```
 git clone --recurse-submodules https://github.com/maxwellpollack/juce-plugin-ci.git
