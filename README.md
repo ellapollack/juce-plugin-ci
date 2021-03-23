@@ -15,7 +15,7 @@ git push origin master --tags
 ## Building from the command line
 
 1. [Install CMake](https://cmake.org/install/)
-2.
+2. Run these commands in a folder of your choosing:
 ```
 git clone --recurse-submodules https://github.com/maxwellpollack/juce-plugin-ci.git
 cd juce-plugin-ci
@@ -29,7 +29,7 @@ cmake --build build
 2. [Install VS Code](https://code.visualstudio.com/)
 3. [Install the CMake Tools extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
 4. [Install the C/C++ language extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-5.
+5. Run these commands in a folder of your choosing:
 ```
 git clone --recurse-submodules https://github.com/maxwellpollack/juce-plugin-ci.git
 cd juce-plugin-ci
