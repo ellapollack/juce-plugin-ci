@@ -1,4 +1,6 @@
-This repository is a starting point for building audio plugins with [JUCE](https://github.com/juce-framework/JUCE).
+This repository is a starting point for creating audio plugins with the JUCE framework. [Fork it](https://github.com/maxwellpollack/juce-plugin-ci/fork) to start a new, empty audio plugin project on Github that automatically builds cross-platform (x64 Mac, Windows, Linux) binaries every time you push to it.
+
+---
 
 It borrows the boilerplate audio plugin code from [`JUCE/examples/CMake/AudioPlugin`](https://github.com/juce-framework/JUCE/tree/master/examples/CMake/AudioPlugin), and adds:
 1. a CMake `FetchContent` call to automatically download and link the JUCE library, and
