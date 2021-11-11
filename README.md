@@ -14,7 +14,9 @@ git push origin master --tags
 
 ---
 
-## Building from the command line
+## How to build your first audio plugin:
+
+#### From the command line:
 
 1. [Install CMake](https://cmake.org/install/)
 2. Run these commands in a folder of your choosing:
@@ -25,7 +27,7 @@ cmake .
 cmake --build build
 ```
 
-## Building in Visual Studio Code
+#### In Visual Studio Code:
 
 1. [Install CMake](https://cmake.org/install/)
 2. [Install VS Code](https://code.visualstudio.com/)
