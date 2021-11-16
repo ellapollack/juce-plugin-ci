@@ -14,7 +14,7 @@ git push origin master --tags
 
 ---
 
-## How to build your first audio plugin:
+## How to build your audio plugin:
 
 #### From the command line:
 
