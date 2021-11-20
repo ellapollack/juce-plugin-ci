@@ -29,7 +29,7 @@ cmake .
 cmake --build build
 ```
 
-## Building in Visual Studio Code:
+## Building in Visual Studio Code
 
 - Install [CMake](https://cmake.org/install/), [VS Code](https://code.visualstudio.com/), the [VS Code C/C++ language extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), and [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools).
 - [Follow this guide to get started with CMake Tools](https://code.visualstudio.com/docs/cpp/cmake-linux).
