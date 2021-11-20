@@ -1,6 +1,6 @@
-### [Fork this repository](https://github.com/maxwellpollack/juce-plugin-ci/fork) to start a new audio plugin project on Github.
+### [Fork this repository](https://github.com/maxwellpollack/juce-plugin-ci/fork) to start a new JUCE audio plugin project on Github.
 
-It contains an audio plugin template, and automatically builds cross-platform binaries every time you push.
+It contains a JUCE audio plugin template, and automatically builds cross-platform binaries every time you push.
 
 #### To publish a new Release, tag your commit with a version number before pushing:
 ```shell
