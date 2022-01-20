@@ -1,18 +1,15 @@
 ### [Use this template](https://github.com/maxwellpollack/juce-plugin-ci/generate) to start a new JUCE audio plugin project on Github.
 
-It contains a JUCE audio plugin template, and automatically builds cross-platform binaries every time you push.
+It contains:
+1. the boilerplate audio plugin code from [`JUCE/examples/CMake/AudioPlugin`](https://github.com/juce-framework/JUCE/tree/master/examples/CMake/AudioPlugin)
+2. a CMake `FetchContent` call to automatically download and link the JUCE library
+3. a GitHub Actions workflow which automatically builds (with CMake) and tests (with CTest) the audio plugin for 64-bit MacOS, Windows, and Linux platforms on every push
 
 #### To publish a new Release, tag your commit with a version number before pushing:
 ```shell
 git tag v1.0.0
 git push origin main --tags
 ```
-
----
-
-It borrows the boilerplate audio plugin code from [`JUCE/examples/CMake/AudioPlugin`](https://github.com/juce-framework/JUCE/tree/master/examples/CMake/AudioPlugin), and adds
-1. a CMake `FetchContent` call to automatically download and link the JUCE library, and
-2. a GitHub Actions script which automatically builds (with CMake) and tests (with CTest) the audio plugin for 64-bit MacOS, Windows, and Linux platforms on every push.
 
 ---
 
