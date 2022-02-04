@@ -13,11 +13,6 @@ git push origin main --tags
 
 ---
 
-## Downloading
-```
-git clone --recurse-submodules https://github.com/maxwellpollack/juce-plugin-ci.git
-```
-
 ## Building from the command line
 
 - Install [CMake](https://cmake.org/install/) and run:
