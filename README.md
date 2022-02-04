@@ -1,4 +1,4 @@
-### [Use this template](https://github.com/maxwellpollack/juce-plugin-ci/generate) to start a new JUCE audio plugin project on Github.
+### [Use this template](https://github.com/maxwellpollack/juce-plugin-ci/generate) to start a new JUCE audio plugin project in a Github repository.
 
 It contains:
 1. the boilerplate audio plugin code from [`JUCE/examples/CMake/AudioPlugin`](https://github.com/juce-framework/JUCE/tree/master/examples/CMake/AudioPlugin)
