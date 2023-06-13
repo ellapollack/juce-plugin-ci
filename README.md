@@ -1,5 +1,5 @@
-# DEPRECATED
-(June 2023) I am deciding to deprecate this repository because I am now a full-time high school teacher and don't have to time to maintain it anymore. Also because @sudara's [Pamplejuce](https://github.com/sudara/pamplejuce) repository is a much more thorough and up-to-date template for JUCE projects.
+# DEPRECATED (use [Pamplejuce](https://github.com/sudara/pamplejuce) instead)
+(June 2023) I am deciding to deprecate this repository because I am now a full-time high school teacher and don't have to time to maintain it anymore. Also because [@sudara's Pamplejuce](https://github.com/sudara/pamplejuce) repository is a much more thorough and up-to-date template for JUCE projects.
 
 ---
 
